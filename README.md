@@ -103,6 +103,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -284,6 +285,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0155-min-stack](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0739-daily-temperatures](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2751-robot-collisions](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 ## Design
@@ -435,6 +437,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
