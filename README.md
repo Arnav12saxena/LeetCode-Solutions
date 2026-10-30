@@ -99,6 +99,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
+| [3904-smallest-stable-index-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -279,6 +280,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0238-product-of-array-except-self](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
+| [3904-smallest-stable-index-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
