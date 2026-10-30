@@ -102,6 +102,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -272,6 +273,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,6 +405,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -410,5 +413,6 @@ This is a learning archive. Review each solution and its complexity rather than 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
