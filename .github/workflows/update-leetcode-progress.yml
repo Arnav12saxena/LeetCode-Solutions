@@ -63,27 +63,30 @@ jobs:
           readme_path = Path("README.md")
           readme = readme_path.read_text(encoding="utf-8")
 
-          progress_section = f"""## Progress
-
-          | Metric | Count |
-          |---|---:|
-          | Solutions currently synced here | {total} |
-          | Easy | {counts["Easy"]} |
-          | Medium | {counts["Medium"]} |
-          | Hard | {counts["Hard"]} |
-
-          These counts are recalculated automatically from solution files in this repository whenever LeetHub pushes a problem. They reflect repository contents, not a live count from your LeetCode account."""
+          progress_lines = [
+              "## Progress",
+              "",
+              "| Metric | Count |",
+              "|---|---:|",
+              f"| Solutions currently synced here | {total} |",
+              f"| Easy | {counts['Easy']} |",
+              f"| Medium | {counts['Medium']} |",
+              f"| Hard | {counts['Hard']} |",
+              "",
+              "Counts are recalculated automatically from solution files in this repository whenever LeetHub pushes a problem. They reflect repository contents, not a live count from your LeetCode account."
+          ]
+          progress_section = "\n".join(progress_lines)
 
           updated, replacements = re.subn(
-              r"## Progress\n.*?(?=\n## Updating this repository)",
-              progress_section,
+              r"<!-- LEETCODE_PROGRESS_START -->.*?<!-- LEETCODE_PROGRESS_END -->",
+              lambda _: "<!-- LEETCODE_PROGRESS_START -->\n" + progress_section + "\n<!-- LEETCODE_PROGRESS_END -->",
               readme,
               count=1,
               flags=re.DOTALL,
           )
 
           if replacements != 1:
-              raise SystemExit("Could not find the README Progress section; no changes were made.")
+              raise SystemExit("Could not find the README progress markers; no changes were made.")
 
           readme_path.write_text(updated.rstrip() + "\n", encoding="utf-8")
           print(f"README progress updated: {total} total "
