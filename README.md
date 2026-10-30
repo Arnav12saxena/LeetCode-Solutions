@@ -92,6 +92,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0485-max-consecutive-ones](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0835-image-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -249,6 +250,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0217-contains-duplicate](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [2615-sum-of-distances](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -393,6 +395,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
