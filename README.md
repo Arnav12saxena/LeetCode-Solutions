@@ -63,6 +63,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -248,6 +249,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -272,6 +274,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [2615-sum-of-distances](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
