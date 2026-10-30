@@ -117,6 +117,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -211,6 +212,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0940-distinct-subsequences-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
@@ -225,6 +227,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0835-image-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
