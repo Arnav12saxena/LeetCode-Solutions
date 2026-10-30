@@ -128,6 +128,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -224,4 +225,8 @@ This is a learning archive. Review each solution and its complexity rather than 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
