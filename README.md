@@ -53,6 +53,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0242-valid-anagram](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -173,6 +174,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0115-distinct-subsequences](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
