@@ -127,6 +127,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -192,6 +193,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [2463-minimum-total-distance-traveled](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -238,6 +240,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
@@ -315,6 +318,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
