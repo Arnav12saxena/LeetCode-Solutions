@@ -1,0 +1,105 @@
+name: Update LeetCode README progress
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "LeetCode/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-leetcode-readme-progress
+  cancel-in-progress: false
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Recalculate solution counts
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path("LeetCode")
+          difficulties = ("Easy", "Medium", "Hard")
+          source_extensions = {
+              ".py", ".cpp", ".cc", ".cxx", ".c", ".java",
+              ".js", ".jsx", ".ts", ".tsx", ".go", ".rs",
+              ".cs", ".php", ".rb", ".swift", ".kt", ".kts",
+              ".scala", ".sql", ".dart", ".rkt", ".erl",
+              ".ex", ".exs", ".hs", ".lua", ".pl", ".m"
+          }
+
+          counts = {}
+          for difficulty in difficulties:
+              difficulty_dir = root / difficulty
+              count = 0
+
+              if difficulty_dir.is_dir():
+                  for problem_dir in difficulty_dir.iterdir():
+                      if not problem_dir.is_dir():
+                          continue
+
+                      has_solution = any(
+                          file.is_file() and file.suffix.lower() in source_extensions
+                          for file in problem_dir.iterdir()
+                      )
+                      if has_solution:
+                          count += 1
+
+              counts[difficulty] = count
+
+          total = sum(counts.values())
+          readme_path = Path("README.md")
+          readme = readme_path.read_text(encoding="utf-8")
+
+          progress_section = f"""## Progress
+
+          | Metric | Count |
+          |---|---:|
+          | Solutions currently synced here | {total} |
+          | Easy | {counts["Easy"]} |
+          | Medium | {counts["Medium"]} |
+          | Hard | {counts["Hard"]} |
+
+          These counts are recalculated automatically from solution files in this repository whenever LeetHub pushes a problem. They reflect repository contents, not a live count from your LeetCode account."""
+
+          updated, replacements = re.subn(
+              r"## Progress\n.*?(?=\n## Updating this repository)",
+              progress_section,
+              readme,
+              count=1,
+              flags=re.DOTALL,
+          )
+
+          if replacements != 1:
+              raise SystemExit("Could not find the README Progress section; no changes were made.")
+
+          readme_path.write_text(updated.rstrip() + "\n", encoding="utf-8")
+          print(f"README progress updated: {total} total "
+                f"(Easy {counts['Easy']}, Medium {counts['Medium']}, Hard {counts['Hard']}).")
+          PY
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- README.md; then
+            echo "README progress is already up to date."
+            exit 0
+          fi
+
+          git add README.md
+          git commit -m "Update LeetCode progress in README"
+          git push
