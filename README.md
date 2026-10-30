@@ -43,6 +43,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0010-regular-expression-matching/) | Hard |
@@ -190,6 +191,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0010-regular-expression-matching/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -363,6 +365,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -451,4 +454,8 @@ This is a learning archive. Review each solution and its complexity rather than 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
