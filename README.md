@@ -104,6 +104,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -402,9 +403,11 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0657-robot-return-to-origin](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
