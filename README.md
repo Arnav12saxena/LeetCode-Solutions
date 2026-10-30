@@ -90,6 +90,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -168,6 +169,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
@@ -184,6 +186,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
@@ -243,6 +246,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +299,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
