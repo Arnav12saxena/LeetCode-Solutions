@@ -1,7 +1,7 @@
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
-        
+
         int n = nums.size();
 
         // suffixMin[i] = minimum value in nums[i..n-1]
@@ -17,8 +17,7 @@ public:
         for (int i = 0; i < n; ++i) {
             prefixMax = max(prefixMax, nums[i]);
 
-            long long instability =
-                1LL * prefixMax - suffixMin[i];
+            long long instability = 1LL * prefixMax - suffixMin[i];
 
             if (instability <= k) {
                 return i;
