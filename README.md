@@ -85,6 +85,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
+| [3875-construct-uniform-parity-array-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
@@ -152,6 +153,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Sorting
