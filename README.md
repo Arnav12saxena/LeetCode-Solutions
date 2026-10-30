@@ -43,6 +43,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
@@ -179,6 +180,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0013-roman-to-integer](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -214,6 +216,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
