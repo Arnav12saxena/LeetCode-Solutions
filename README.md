@@ -82,6 +82,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0605-can-place-flowers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0835-image-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -177,6 +178,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
