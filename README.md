@@ -132,6 +132,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [2615-sum-of-distances](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2906-construct-product-matrix](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -225,6 +226,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
+| [2906-construct-product-matrix](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
@@ -407,6 +409,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0238-product-of-array-except-self](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2615-sum-of-distances](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
+| [2906-construct-product-matrix](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
