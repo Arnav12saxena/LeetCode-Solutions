@@ -86,6 +86,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -245,6 +246,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
