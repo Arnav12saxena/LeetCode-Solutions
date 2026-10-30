@@ -1,55 +1,42 @@
 # LeetCode Solutions
 
-A personal collection of my LeetCode solutions, primarily in **Python**. Solutions are organised by topic so they are easy to revisit during DSA practice and interview preparation.
+A personal archive of my LeetCode submissions, synced to GitHub with **LeetHub 3.0**.
 
-> Problems are added as I solve and review them. This repository is a learning log, not a measure of problem-solving ability.
+Solutions may use different programming languages. Each problem is stored in its own folder, grouped by difficulty.
 
 ## Repository structure
 
 ```text
 LeetCode-Solutions/
-├── Arrays/
-├── Strings/
-├── Hashing/
-├── Two_Pointers/
-├── Sliding_Window/
-├── Binary_Search/
-├── Linked_List/
-├── Stack_and_Queue/
-├── Trees/
-├── Heap_and_Priority_Queue/
-├── Graphs/
-├── Backtracking/
-├── Greedy/
-├── Dynamic_Programming/
-├── Math_and_Bit_Manipulation/
+├── LeetCode/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
 └── README.md
 ```
 
-## Solution format
-
-Each solution should ideally include:
-- The problem number and title in its filename.
-- A brief explanation of the approach.
-- Time and space complexity.
-- The language used.
-
-Example filename: `0001_two_sum.py`
+Each synced problem folder generally contains the submitted solution and a problem README with the statement and metadata. LeetHub may also update the generated topic index below.
 
 ## Progress
 
 | Metric | Count |
 |---|---:|
-| Problems documented in this repository | 0 |
-| Easy | — |
-| Medium | — |
-| Hard | — |
+| Solutions currently synced here | 1 |
+| Easy | 0 |
+| Medium | 1 |
+| Hard | 0 |
 
-Counts will be updated as solutions are imported. Existing LeetCode submissions are not included until their code is added here.
+These counts describe files currently present in this repository, not the total number of problems solved on LeetCode. Older submissions have not yet been imported.
 
-## Disclaimer
+## Updating this repository
 
-These are personal study solutions. There may be multiple valid approaches to a problem; the implementations here reflect what I have practised and understood.
+- Solve and submit a problem on LeetCode.
+- LeetHub 3.0 syncs the accepted submission to this repository.
+- Check the new problem folder and commit in GitHub.
+
+## Notes
+
+This is a learning archive. Review each solution and its complexity rather than treating the number of commits as a measure of DSA ability.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
