@@ -56,6 +56,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0128-longest-consecutive-sequence](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0605-can-place-flowers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0835-image-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -90,6 +92,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Bit Manipulation
@@ -154,6 +157,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -170,6 +174,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -255,4 +260,16 @@ This is a learning archive. Review each solution and its complexity rather than 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
