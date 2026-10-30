@@ -36,6 +36,7 @@ Solutions are synced from LeetCode using **LeetHub 3.0**. The progress summary b
 | **Total** | **119** | **100.0%** | `████████████████` |
 
 Counts are recalculated automatically from solution files in this repository whenever LeetHub pushes a problem. They reflect repository contents, not a live count from your LeetCode account.
+<!-- LEETCODE_PROGRESS_END -->
 
 ## Repository layout
 
