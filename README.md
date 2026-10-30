@@ -62,6 +62,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | ------- | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +96,16 @@ This is a learning archive. Review each solution and its complexity rather than 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 <!---LeetCode Topics End-->
