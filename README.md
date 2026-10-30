@@ -67,6 +67,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [1046-last-stone-weight](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0605-can-place-flowers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0835-image-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1046-last-stone-weight](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
