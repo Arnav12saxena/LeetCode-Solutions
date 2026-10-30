@@ -81,7 +81,7 @@ jobs:
               "",
               "Counts are recalculated automatically from solution files in this repository whenever LeetHub pushes a problem. They reflect repository contents, not a live count from your LeetCode account."
           ]
-          progress_section = "\\n".join(progress_lines)
+          progress_section = "\n".join(progress_lines)
 
           updated, replacements = re.subn(
               r"<!-- LEETCODE_PROGRESS_START -->.*?<!-- LEETCODE_PROGRESS_END -->",
