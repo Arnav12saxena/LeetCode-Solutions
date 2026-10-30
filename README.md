@@ -57,6 +57,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
@@ -408,6 +409,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
