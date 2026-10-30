@@ -65,6 +65,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0036-valid-sudoku](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0835-image-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -121,6 +122,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
+| [0835-image-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
