@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="430" viewBox="0 0 1600 430" role="img" aria-labelledby="title desc">
+  <title id="title">LeetCode Solutions — Data Structures and Algorithms</title>
+  <desc id="desc">A dark navy and indigo banner with glowing cyan and violet code brackets and a grid pattern.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080f22"/>
+      <stop offset="52%" stop-color="#111d3b"/>
+      <stop offset="100%" stop-color="#20204b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#55e6d1"/>
+      <stop offset="100%" stop-color="#9b8cff"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop offset="0%" stop-color="#38d9c4" stop-opacity=".26"/>
+      <stop offset="100%" stop-color="#38d9c4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop offset="0%" stop-color="#9c85ff" stop-opacity=".25"/>
+      <stop offset="100%" stop-color="#9c85ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#9eb4e8" stroke-opacity=".08" stroke-width="1"/>
+      <circle cx="1" cy="1" r="1.2" fill="#9eb4e8" fill-opacity=".14"/>
+    </pattern>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="430" rx="30" fill="url(#bg)"/>
+  <rect width="1600" height="430" rx="30" fill="url(#grid)"/>
+  <circle cx="1320" cy="85" r="300" fill="url(#glowA)"/>
+  <circle cx="1490" cy="370" r="300" fill="url(#glowB)"/>
+  <path d="M0 355C270 300 420 430 710 372S1190 275 1600 350" fill="none" stroke="#7f91d9" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M0 375C270 320 420 450 710 392S1190 295 1600 370" fill="none" stroke="#55e6d1" stroke-opacity=".12" stroke-width="2"/>
+  <g opacity=".92">
+    <rect x="1190" y="88" width="300" height="250" rx="24" fill="#0a142d" fill-opacity=".62" stroke="#b8c7ff" stroke-opacity=".2"/>
+    <rect x="1216" y="115" width="248" height="34" rx="10" fill="#202e50"/>
+    <circle cx="1240" cy="132" r="5" fill="#ff7d91"/>
+    <circle cx="1260" cy="132" r="5" fill="#ffd27a"/>
+    <circle cx="1280" cy="132" r="5" fill="#5de0c2"/>
+    <path d="M1285 195l-34 34 34 34M1395 195l34 34-34 34" fill="none" stroke="url(#accent)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1362 183l-37 92" fill="none" stroke="#eef3ff" stroke-opacity=".9" stroke-width="9" stroke-linecap="round"/>
+    <path d="M1230 297h220" stroke="#64749f" stroke-opacity=".45" stroke-width="2"/>
+    <path d="M1230 313h145" stroke="#64749f" stroke-opacity=".28" stroke-width="2"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="112" y="125" fill="#8fe9df" font-size="20" font-weight="700" letter-spacing="5">DATA STRUCTURES  •  ALGORITHMS  •  CONSISTENCY</text>
+    <text x="108" y="222" fill="#f4f7ff" font-size="76" font-weight="800" letter-spacing="-2">LeetCode</text>
+    <text x="112" y="294" fill="url(#accent)" font-size="62" font-weight="750" letter-spacing="-1">Solutions</text>
+    <rect x="112" y="330" width="92" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="226" y="342" fill="#c5d0eb" font-size="22" font-weight="500">A growing archive of accepted solutions in C++ and Python</text>
+  </g>
+  <g fill="#b5c5f1" opacity=".55">
+    <circle cx="1060" cy="76" r="3"/><circle cx="1100" cy="76" r="3"/><circle cx="1140" cy="76" r="3"/>
+    <circle cx="1060" cy="112" r="3"/><circle cx="1100" cy="112" r="3"/><circle cx="1140" cy="112" r="3"/>
+    <circle cx="1060" cy="148" r="3"/><circle cx="1100" cy="148" r="3"/><circle cx="1140" cy="148" r="3"/>
+  </g>
+</svg>
