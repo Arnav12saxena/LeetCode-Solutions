@@ -104,6 +104,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0485-max-consecutive-ones](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
+| [0645-set-mismatch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0835-image-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
@@ -172,6 +173,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -267,6 +269,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0217-contains-duplicate](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0645-set-mismatch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -298,6 +301,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0242-valid-anagram](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0645-set-mismatch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2615-sum-of-distances](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
