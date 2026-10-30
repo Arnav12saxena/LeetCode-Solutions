@@ -97,6 +97,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
+| [0636-exclusive-time-of-functions](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0835-image-overlap](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
@@ -286,6 +287,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0636-exclusive-time-of-functions](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
