@@ -86,6 +86,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2615-sum-of-distances](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -205,6 +206,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0217-contains-duplicate](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [2615-sum-of-distances](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -284,6 +286,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2615-sum-of-distances](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Linked List
