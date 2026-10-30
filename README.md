@@ -111,6 +111,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -304,6 +305,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | [0232-implement-queue-using-stacks](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2751-robot-collisions](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
@@ -444,6 +446,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
