@@ -43,6 +43,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
@@ -168,6 +169,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0010-regular-expression-matching/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
@@ -342,6 +344,7 @@ This is a learning archive. Review each solution and its complexity rather than 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Hard/0010-regular-expression-matching/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Arnav12saxena/LeetCode-Solutions/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
