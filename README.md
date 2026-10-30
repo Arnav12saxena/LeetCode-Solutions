@@ -21,12 +21,12 @@ Each synced problem folder generally contains the submitted solution and a probl
 
 | Metric | Count |
 |---|---:|
-| Solutions currently synced here | 1 |
-| Easy | 0 |
-| Medium | 1 |
-| Hard | 0 |
+| Solutions currently synced here | 119 |
+| Easy | 43 |
+| Medium | 55 |
+| Hard | 21 |
 
-These counts describe files currently present in this repository, not the total number of problems solved on LeetCode. Older submissions have not yet been imported.
+These counts describe the 119 problem folders and matching solution files currently present in this repository. They reflect the repository contents, not a live count from your LeetCode account.
 
 ## Updating this repository
 
