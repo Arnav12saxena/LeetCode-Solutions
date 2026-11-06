@@ -26,14 +26,14 @@ Solutions are synced from LeetCode using **LeetHub 3.0**. The progress summary b
 <!-- LEETCODE_PROGRESS_START -->
 ## Progress
 
-**126 solutions tracked**
+**127 solutions tracked**
 
 | Difficulty | Problems | Share | Distribution |
 |---|---:|---:|---|
-| Easy | 45 | 35.7% | `██████░░░░░░░░░░` |
-| Medium | 59 | 46.8% | `███████░░░░░░░░░` |
-| Hard | 22 | 17.5% | `███░░░░░░░░░░░░░` |
-| **Total** | **126** | **100.0%** | `████████████████` |
+| Easy | 45 | 35.4% | `██████░░░░░░░░░░` |
+| Medium | 60 | 47.2% | `████████░░░░░░░░` |
+| Hard | 22 | 17.3% | `███░░░░░░░░░░░░░` |
+| **Total** | **127** | **100.0%** | `████████████████` |
 
 Counts are recalculated automatically from solution files in this repository whenever LeetHub pushes a problem. They reflect repository contents, not a live count from your LeetCode account.
 <!-- LEETCODE_PROGRESS_END -->
